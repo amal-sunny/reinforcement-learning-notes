@@ -1,4 +1,4 @@
-# reinforcement-learning-notes
+# Reinforcement Learning Notes
 
 Notes based on Lecture series - Introduction to Reinforcement Learning by David Silver
 
